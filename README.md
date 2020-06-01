@@ -17,3 +17,4 @@ Note: Several of the attributes in the database could be used as a "class" attri
 
 Inspiration
 Please bring it on whatever inferences you can get it.
+here is the (link)[https://medium.com/@nishan4232t/data-with-machine-learning-science-7a55711e67a7] to my blog on this project:
